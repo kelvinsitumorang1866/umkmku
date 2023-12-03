@@ -370,7 +370,7 @@
                     <select id="jenis" name="jenis" class="form-select">
                         <option value="Makanan Olahan">Makanan Olahan</option>
                         <option value="Pertanian">Pertanian</option>
-                        <option value="Perkebunan">Perkebunan</option>
+                        <option value="Peternakan">Peternakan</option>
                     </select>
                     </div>
                 </div>
